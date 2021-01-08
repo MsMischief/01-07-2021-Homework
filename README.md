@@ -11,7 +11,7 @@
    Home.style.cc\
    Portfolio.html\
    Contact.html\
-   Style.css\
+   Style.css
    
    
    ## Deployed Website
@@ -21,9 +21,9 @@
    
    ## Credits
    \
-  Jason T Roundtree (https://uwa.bootcampcontent.com/JR)\
-  Bootstrap Snippets for the footer (https://bootstrapious.com/snippets)\
-Contact box courtesy of Colorlib (https://colorlib.com)\
+  Jason T Roundtree (https://uwa.bootcampcontent.com/JR) \
+  Bootstrap Snippets for the footer (https://bootstrapious.com/snippets) \ 
+  Contact box courtesy of Colorlib (https://colorlib.com)
 
 
   
