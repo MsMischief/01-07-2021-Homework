@@ -22,8 +22,7 @@
    ## Credits
    \
   Jason T Roundtree (https://uwa.bootcampcontent.com/JR) \
-  Bootstrap Snippets for the footer (https://bootstrapious.com/snippets) \
-  
+  Bootstrap Snippets for the footer (https://bootstrapious.com/snippets)
   Contact box courtesy of Colorlib (https://colorlib.com)
 
 
