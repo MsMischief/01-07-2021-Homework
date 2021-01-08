@@ -16,7 +16,7 @@
    
    ## Deployed Website
    \
-   ![Website screenshot](https://github.com/MsMischief/01-07-2021-Homework/blob/main/Assets/Portfolio%20Main.PNG)
+   ![Website screenshot](https://raw.githubusercontent.com/MsMischief/01-07-2021-Homework/main/assets/Portfolio%20Main.PNG)
    
    
    ## Credits
